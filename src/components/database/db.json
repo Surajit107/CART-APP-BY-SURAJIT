@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "brand": "IdeaPad Slim 3i (15, Intel)",
+      "color": "Grey",
+      "description": "11th Generation Intel® Core™ i3-1115G4 Processor (3.00 GHz up to 4.10 GHz), 8 GB (4 GB Soldered DDR4 2666MHz + 4 GB SO-DIMM DDR4 2666MHz), 512 GB SSD M.2 2242 PCIe Gen3/4",
+      "quantity": 6,
+      "id": 1
+    },
+    {
+      "brand": "ASUS CHROMEBOOK C223",
+      "color": "Red",
+      "description": " Powered by the Intel Celeron N3350 Processor (2M Cache, up to 2.4GHz) for fast and snappy performance, 4 GB DDR3 RAM; 32GB eMMC hard drive; No CD or DVD drive",
+      "quantity": 6,
+      "id": 2
+    },
+    {
+      "brand": "HP Pavilion x360 14-dy0208TU",
+      "color": "Blue",
+      "description": "11th Generation Intel Core i3 Processor for fast performance,8GB DDR4-3200 MHz RAM for smooth using experience, 512GB SSD to store all your files",
+      "quantity": 6,
+      "id": 3
+    },
+    {
+      "brand": "Realme",
+      "color": "Black",
+      "description": "It is a good phone",
+      "quantity": "7",
+      "id": 4
+    },
+    {
+      "brand": "RedMI",
+      "color": "White",
+      "description": "It has a big brand",
+      "quantity": "7",
+      "id": 5
+    },
+    {
+      "brand": "Random Laptop",
+      "color": "White",
+      "description": "It is a good laptop",
+      "quantity": "7",
+      "id": 6
+    },
+    {
+      "brand": "Laptop",
+      "color": "Red",
+      "description": "It is a bad laptop",
+      "quantity": "7",
+      "id": 7
+    },
+    {
+      "brand": "Brand Name",
+      "color": "Blue",
+      "description": "It is a small brand but it will be big brand near future ",
+      "quantity": "18",
+      "id": 8
+    }
+  ]
+}
